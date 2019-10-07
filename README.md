@@ -1,0 +1,2 @@
+# HAYAHC.github.io
+Hexo
